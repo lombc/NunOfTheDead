@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_adjust_depth_for_nun",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_adjust_depth_for_nun",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
